@@ -1,4 +1,3 @@
-```markdown
 ## mlogger — Minimalistic Logger for Go
 
 A lightweight logging package for Go projects. Perfect for learning Go or using in small‑scale applications where you need basic logging functionality without the overhead of large frameworks.
