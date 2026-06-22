@@ -18,7 +18,7 @@ A lightweight logging package for Go projects. Perfect for learning Go or using 
 ### Installation
 
 ```bash
-go get github.com/your-username/mlogger
+go get github.com/tkachenkosi/mlogger
 ```
 
 ### Configuration
@@ -46,7 +46,7 @@ const (
 ```go
 package main
 
-import "github.com/your-username/mlogger"
+import "github.com/tkachenkosi/mlogger"
 
 func main() {
 	mlogger.Info("Application started")
